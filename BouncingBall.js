@@ -35,7 +35,7 @@ function createBall()
         ballDiv.id = "ball"+ballCount;
         ballCount++;
         
-        ballDiv.style.backgroundImage = 'url(ball.PNG)';               
+        ballDiv.style.backgroundImage = 'url(ball.png)';               
         ballDiv.style.width="47px";
         ballDiv.style.height="50px";
         ballDiv.style.borderRadius="50%";
